@@ -2,5 +2,8 @@
   "devDependencies": {
     "browser": "^0.2.6",
     "browser-sync": "^2.26.13"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3"
   }
 }
